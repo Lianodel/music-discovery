@@ -1,0 +1,14 @@
+/*{
+  "compilerOptions": {
+    "outDir": "./public/",
+    "sourceMap": true,
+    "module": "commonjs",
+    "target": "ES5",
+    "allowSyntheticDefaultImports": true,
+    "baseUrl": "./src"
+  },
+  "exclude": [
+    "./node_modules",
+    "./public",
+  ]
+}*/
