@@ -22,6 +22,7 @@
   "homepage": "https://github.com/Lianodel/music-discovery#readme",
   "devDependencies": {
     "@babel/core": "^7.6.2",
+    "@babel/plugin-proposal-class-properties": "^7.5.5",
     "@babel/preset-env": "^7.6.2",
     "autoprefixer": "^9.6.4",
     "babel-loader": "^8.0.6",
