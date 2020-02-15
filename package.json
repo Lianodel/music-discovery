@@ -44,6 +44,6 @@
     "webpack-dev-server": "^3.8.2"
   },
   "dependencies": {
-    "yarn": "^1.19.1"
+    "yarn": "^1.22.0"
   }
 }
